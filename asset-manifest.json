@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fridge/static/css/main.128d2813.chunk.css",
+    "main.js": "/fridge/static/js/main.a48ffd7a.chunk.js",
+    "main.js.map": "/fridge/static/js/main.a48ffd7a.chunk.js.map",
+    "runtime-main.js": "/fridge/static/js/runtime-main.cf77550f.js",
+    "runtime-main.js.map": "/fridge/static/js/runtime-main.cf77550f.js.map",
+    "static/js/2.5cf1b35f.chunk.js": "/fridge/static/js/2.5cf1b35f.chunk.js",
+    "static/js/2.5cf1b35f.chunk.js.map": "/fridge/static/js/2.5cf1b35f.chunk.js.map",
+    "index.html": "/fridge/index.html",
+    "static/css/main.128d2813.chunk.css.map": "/fridge/static/css/main.128d2813.chunk.css.map",
+    "static/js/2.5cf1b35f.chunk.js.LICENSE.txt": "/fridge/static/js/2.5cf1b35f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf77550f.js",
+    "static/js/2.5cf1b35f.chunk.js",
+    "static/css/main.128d2813.chunk.css",
+    "static/js/main.a48ffd7a.chunk.js"
+  ]
+}
