@@ -1,3 +1,15 @@
+# Fridge
+
+## User Stories:
+
+* As a cook, I can fill in the ingredients I have in my fridge
+
+* As a cook, I can search and see the recipes which have the best matches against my ingredients
+
+* As a cook, I can see which ingredients from the recipes I have, and which I don't.
+
+# Bootstrap:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
