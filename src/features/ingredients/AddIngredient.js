@@ -23,6 +23,7 @@ export function AddIngredient() {
       <div className={"valign-wrapper center " + styles.form}>
         <input
           className={styles.input}
+          id="add-ingredient-input"
           placeholder="Ajouter un ingrédient dans mon frigo"
           value={newIngredient}
           onChange={e => setNewIngredient(e.target.value)}/>
@@ -31,6 +32,7 @@ export function AddIngredient() {
           icon={<Icon>send</Icon>}
           large
           className="green"
+          id="add-ingredient-button"
           waves="light"/>
       </div>
     </form>
