@@ -1,0 +1,30 @@
+.badge {
+    font-size: 0.8em;
+    display: inline-block;
+    padding: 2px;
+    margin: 0 2px;
+    background-color: green;
+    border-radius: 4px;
+    color: white;
+}
+
+.check_icon {
+    font-size: 0.9em;
+}
+
+.error {
+    padding: 5px;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+
+.limitLabel {
+    font-weight: bold;
+}
+.limit {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.limitButton {
+    margin: 5px 15px;
+}
